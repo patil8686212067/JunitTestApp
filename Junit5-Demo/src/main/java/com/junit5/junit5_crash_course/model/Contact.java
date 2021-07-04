@@ -9,7 +9,7 @@ public class Contact {
         //modification done by user2
         private String Country;
         private String State;
-
+        private String email;  
            
 
 	public Contact(String firstName, String lastName, String phoneNumber) {
