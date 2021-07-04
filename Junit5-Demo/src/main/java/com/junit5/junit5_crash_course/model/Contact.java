@@ -7,7 +7,7 @@ public class Contact {
 	private String phoneNumber;
 
         //modification done by user2
-        private String city;
+        private String Country;
         private String State;
 
            
