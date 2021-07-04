@@ -6,6 +6,12 @@ public class Contact {
 	private String lastName;
 	private String phoneNumber;
 
+        //modification done by user2
+        private String city;
+        private String State;
+
+           
+
 	public Contact(String firstName, String lastName, String phoneNumber) {
 		this.firstName = firstName;
 		this.lastName = lastName;
